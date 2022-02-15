@@ -1,5 +1,5 @@
 # bbuddy-plugin-MQTT
- MQTT plugin for [barcodebuddy](https://github.com/Forceu/barcodebuddy) version 0.1 
+ MQTT plugin (version 0.1) for [barcodebuddy](https://github.com/Forceu/barcodebuddy) 
  
  
 ## About
