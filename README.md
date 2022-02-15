@@ -1,5 +1,5 @@
 # bbuddy-plugin-MQTT
- MQTT plugin for [barcodebuddy](https://github.com/Forceu/barcodebuddy)
+ MQTT plugin for [barcodebuddy](https://github.com/Forceu/barcodebuddy) version 0.1 
  
  
 ## About
@@ -34,6 +34,7 @@ AFAIK at the moment this won't work while using the [Homeassistant Docker Image]
 
 ## TODO
 - [ ] Check why autoload isn't working
+- [ ] Code cleanup
 - [ ] Try to find modification for original Barcodebuddy logging function so that log is not just text but also structure
 - [ ] Discuss the use of composer.lock versus the current (usually not advised) inclusion of vendor folder 
 
